@@ -16,4 +16,4 @@ With the data I selected there were no paid reviews for any of the amazon produc
 
 ## Summary
 
-I cannot determine if the there would be a bias within the vine program based on the data I reviewed. Since there were no vine reviews there is no way to know if it would affect the number of five star reviews products recive in this category. Since there are 0 vine reviews in this dataset even when you take the base data set from amazon there is no way to determine if the vine program is bias. To determine that you would need to look at a completely different dataset. 
+I cannot determine if the there would be a bias within the vine program based on the data I reviewed. Since there were no vine reviews there is no way to know if it would affect the number of five star reviews products recive in this category. Even when you expand the dataframe to the completely unfilted set recieved from amazon directly there are 0 vine reviews. To determine that you would need to look at a completely different dataset. 
