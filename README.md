@@ -8,6 +8,12 @@ for deliverable 1 I took a large data dump provided by amazon and transformed th
 
 ## Results
 
-* With the data I selected there were no paid reviews for any of the amazon products. So I am not able to provide a precentage of paid reviews to five star rating.
-*  For the non paid reviews there were a total of 1685 reviews and 631 five star reviews. This means that 37% of the reviewers gave the products a five star review. 
-    * I was only tracking the products that had more then 20 total votes and where more tehn 50% of people found those votes helpful. 
+With the data I selected there were no paid reviews for any of the amazon products. So I am not able to provide a precentage of paid reviews to five star rating. For the non paid reviews there were a total of 1685 reviews and 631 five star reviews. This means that 37% of the reviewers gave the products a five star review. I was only tracking the products that had more then 20 total votes and where more than 50% of people found those votes helpful. see below for a break down.
+
+* 0 vine reviews and 1685 non-vine reviews
+* 0 five star vine reviews and 631 five star non-vine reviews
+* 0% five star vine reviews and 37% of the non-vine reviews were five star
+
+## Summary
+
+I cannot determine if the there would be a bias within the vine program based on the data I reviewed. Since there were no vine reviews there is no way to know if it would affect the number of five star reviews products recive in this category. Since there are 0 vine reviews in this dataset even when you take the base data set from amazon there is no way to determine if the vine program is bias. To determine that you would need to look at a completely different dataset. 
